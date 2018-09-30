@@ -13,7 +13,7 @@ Slides for the course can be found in the sub-folder `slides` after the end of t
 
 ## Tutorial
 
-The data and code snippet for the hands-on tutorial can be found in the subfolder `tutorial` [Link](https://github.com/grimmlab/lecture_ml4genomics/tree/master/tutorial).  
+The data and code snippet for the hands-on tutorial can be found in the subfolder `tutorial` ([Link](https://github.com/grimmlab/lecture_ml4genomics/tree/master/tutorial)).  
 The solutions will be uploaded to the same subfolder after the end of the course.  
 
 For the tutorial the programming language `Python` is used (Version 3). The following packages are used for the tutorial:  
