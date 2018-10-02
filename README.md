@@ -9,7 +9,7 @@ Introductory Course for Machine Learning and its applications in genomics and ge
 3. Real-World Applications of ML in Genomics and Genetics
 4. Tutorial: How to use Python with Scikit-Learn (hands-on)
 
-Slides for the course can be found in the sub-folder `slides` after the end of the course.
+Slides for the course can be found in the sub-folder `slides`, or under the following link: [Slides](https://github.com/grimmlab/lecture_ml4genomics/blob/master/slides/MachineLearning4Genomics.pdf).
 
 ## Tutorial
 
